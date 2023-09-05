@@ -1,8 +1,21 @@
 img {
     height: auto;
-    width: 50px;
+    width: 200px;
 }
 /* Headers and text */
 h1 {
     font-size: 30px;
+    color: olivedrab;
+}
+h2 {
+    font-size: 30px;
+    color: olivedrab;
+}
+h3 {
+    font-size: 30px;
+    color: olivedrab;
+}
+h4 {
+    font-size: 30px;
+    color: olivedrab;
 }
