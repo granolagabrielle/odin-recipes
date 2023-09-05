@@ -2,7 +2,7 @@ img {
     height: auto;
     width: 200px;
 }
-div {
-    color: white;
-    background-color: black;
-  }
+/* Headers and text */
+h1 {
+    font-size: 30px;
+}
