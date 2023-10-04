@@ -3,19 +3,11 @@ img {
     width: 200px;
 }
 /* Headers and text */
-h1 {
+h1, h2, h3, h4 {
     font-size: 30px;
     color: olivedrab;
+    text-decoration: underline;
 }
-h2 {
-    font-size: 30px;
-    color: olivedrab;
-}
-h3 {
-    font-size: 30px;
-    color: olivedrab;
-}
-h4 {
-    font-size: 30px;
-    color: olivedrab;
+.vegan broccoli cheddar soup li {
+    list-style-image: ;
 }
